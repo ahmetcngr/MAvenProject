@@ -1,1 +1,2 @@
-second file that we create in GutHub.com direcly
+second file that we create in GitHub.com direcly
+I fixed something
